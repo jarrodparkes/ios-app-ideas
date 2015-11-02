@@ -85,3 +85,15 @@
   - uses regionality/location to decide your default dice
   - and you can battle/play others to get new dice
   - dice could also be decided based on monsters collected in ES (kinda like Pokemon)
+13. Scorekeeper
+  - Keeps score for different table top games that I play with my friend
+    - has a pluggable design so that others could add more scoreboards, possible web API
+14. Pass
+  - A clone of the password guessing game where the user gets multiple attempts to hack a code and with each attempt determines which digits/symbols are currently in the right location (or exist in the password)
+15. Say Thanks
+  - App that encourages users to thank people in their everyday lives
+  - Offers ways to say thank you
+16. Special Athletes
+  - Distributes news about the special olympic and other special athletes in a local area
+17. Empower
+  - Offers reading suggestions for empowering your personal and work life
