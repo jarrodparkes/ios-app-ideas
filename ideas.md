@@ -97,3 +97,8 @@
   - Distributes news about the special olympic and other special athletes in a local area
 17. Empower
   - Offers reading suggestions for empowering your personal and work life
+18. Viva Mobile
+  - Viva Pinata styled sim game
+  - you can select between ground/tile types and add them to the sim
+  - certain tiles will attract animals
+  - design your own animals which are attracted by certain thing
