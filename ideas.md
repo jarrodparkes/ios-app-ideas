@@ -102,3 +102,5 @@
   - you can select between ground/tile types and add them to the sim
   - certain tiles will attract animals
   - design your own animals which are attracted by certain thing
+19. Countdown App
+  - create events where you are only interested in the countdown until it occurs, support for watchkit app
