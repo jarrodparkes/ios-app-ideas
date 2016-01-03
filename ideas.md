@@ -3,6 +3,15 @@
 1. Personal Github Reminder App
   - uses Github api to expose your personal repos and the ones that are stale
   - makes "to-do" out of Github repos and their open issues
+  - create JPRequests or AFNetworking...
+    - a simple request library
+  - JPGitClient
+    - uses JPRequests
+  - Inspirations:
+    - https://github.com/mattdonnelly/Swifter
+    - https://github.com/nerdishbynature/octokit.swift
+    - https://github.com/nerdishbynature/RequestKit/blob/master/RequestKit/Router.swift
+    - http://git2go.com (Uses Safari Controller for logging in :) )
 2. Super MYOA
   - is a dungeon grid crawler
     - Make series of numbers in rectangular grid
@@ -85,6 +94,7 @@
   - uses regionality/location to decide your default dice
   - and you can battle/play others to get new dice
   - dice could also be decided based on monsters collected in ES (kinda like Pokemon)
+  - [Thumb touch on screen and shake "rattles the die" and releasing rolls them](http://youtu.be/wsmMOJj6ETo)
 13. Scorekeeper
   - Keeps score for different table top games that I play with my friend
     - has a pluggable design so that others could add more scoreboards, possible web API
@@ -104,3 +114,21 @@
   - design your own animals which are attracted by certain thing
 19. Countdown App
   - create events where you are only interested in the countdown until it occurs, support for watchkit app
+20. Iron Chef
+  - iron chef as an app
+  - You can play with friends
+  - It randomly selects ingredients (that you can get from store based on price and type -- meat, vegetable, kosher, etc
+  - To start, ingredient is selected and then both players must tap in from their phones to being the timer
+  - At the end, a winner is declared -- maybe provide a way to determine judges from friends list so that you don't judge your own (if competitive match)
+  - If for phone then no winner is elected
+  - Different levels of difficulty, single ingredient vs you get a recipe to cook
+  - Set fixed number of dishes for a challenge
+21. Facial Recognition
+  - training set lives in the cloud
+  - can recognize new images and give a match percentage with existing faces
+  - http://docs.opencv.org/2.4/doc/tutorials/ios/table_of_content_ios/table_of_content_ios.html
+  - http://stackoverflow.com/questions/10272129/face-recognition-on-the-iphone
+  - Examples:
+    - https://github.com/pcentieiro/midian 
+    - https://github.com/objcio/issue-21-OpenCV-FaceRec
+    - https://github.com/gibachan/OpenCVSample
