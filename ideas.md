@@ -132,3 +132,5 @@
     - https://github.com/pcentieiro/midian 
     - https://github.com/objcio/issue-21-OpenCV-FaceRec
     - https://github.com/gibachan/OpenCVSample
+22. Photo Service Dixit
+  - grab photos from web service for abstract imagery and then simulate the game Dixit using the photos grabbed from web service
