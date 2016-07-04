@@ -132,3 +132,10 @@
     - https://github.com/pcentieiro/midian 
     - https://github.com/objcio/issue-21-OpenCV-FaceRec
     - https://github.com/gibachan/OpenCVSample
+22. Marble collection app
+23. Stories of the civil war
+  - You walk the same distances the soldiers walked in order to unlock diary entries that you can read 
+24. Botanist diary
+  - follow the growth of your crops
+  - Daily pictures
+  - Daily description (like old stem projects)
