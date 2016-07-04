@@ -139,3 +139,5 @@
   - follow the growth of your crops
   - Daily pictures
   - Daily description (like old stem projects)
+25. Photo Service + Dixit
+  - grab photos from web service for abstract imagery and then simulate the game Dixit using the photos grabbed from web service
