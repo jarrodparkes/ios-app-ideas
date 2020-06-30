@@ -1,3 +1,15 @@
+- Game Idea #1
+  - a world placed on a top-down 2d grid (like pokemon)
+  - users can only make a selection to move in one cardinal direction every X amount of time
+  - users can wait for a period of time to collect moves up to some threshold (ex: max 10 moves collected)
+  - the map is purposely opaque and users are responsible for taking notes (in-game) that visually begin to describe their world
+  - worlds are randomly generated but have some level of predictability in order to force expected outcomes (ex: a boss battle, or some set of elements must be in the grid)
+  - there is some random enemy/pokemon sort of thing going on where certain squares can spawn certain things, but it is up to chance and users to find the blocks/squares which give them the best chance for things
+  - users can play against each other in network play by battling their pokemon/characters, and trade too
+  - there is a breeding system like dragon warrior monsters had
 - Recipe Maker
+  - private, family recipe store
 - Makecraft
+  - receipe book for fully custom things built in minecraft (links to videos, etc)
 - Scorekeeper
+  - keeps score for simple table top games
