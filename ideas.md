@@ -12,10 +12,10 @@
     - https://github.com/nerdishbynature/octokit.swift
     - https://github.com/nerdishbynature/RequestKit/blob/master/RequestKit/Router.swift
     - http://git2go.com (Uses Safari Controller for logging in :) )
-2. Super MYOA
+2. Super MYOA (make your own adventure)
   - is a dungeon grid crawler
     - Make series of numbers in rectangular grid
-    - 0-F represents the door configs
+    - 0-F represents the door configs (ex: "1 n" means that if 1 is used, display a room with only a door to the north)
       - 0 all closed
       - 1 n
       - 2 e
