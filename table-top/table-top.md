@@ -1,4 +1,4 @@
-App Idea #1 - Table Top RPG
+App Idea - Table Top RPG
 RPG Character Sheet/Builder, Experience Calculator, Dice Roller (start here first!), Combat Manager
 
 features mentioned by AJ and his buddy:
